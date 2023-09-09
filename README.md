@@ -1,5 +1,5 @@
 # HealthCostsPredictionsWithRegression
-Accurate estimation of healthcare costs plays a vital role in optimizing resource allocation and enhancing patient care. This project focuses on developing a predictive model using the XGBoost algorithm to accurately forecast individual health costs with a Mean Absolute Error (MAE) of less than $2000 USD.
+Accurate estimation of healthcare costs plays a vital role in optimizing resource allocation and enhancing patient care. This project focuses on developing a predictive model using the XGBoost algorithm to accurately forecast individual health costs with a Mean Absolute Error (MAE) of less than $2400 USD.
 
 The dataset employed in this project comprises medical records from a diverse group of individuals, encompassing factors like age, gender, BMI, pre-existing conditions, and various health indicators. With a dataset of this nature, consisting of thousands of records and numerous features, the challenge lies in extracting meaningful insights to create an effective predictive model.
 
