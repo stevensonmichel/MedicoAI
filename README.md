@@ -1,4 +1,4 @@
-# HealthCostsPredictionsWithRegression
+# MedicoAI
 Accurate estimation of healthcare costs plays a vital role in optimizing resource allocation and enhancing patient care. This project focuses on developing a predictive model using the XGBoost algorithm to accurately forecast individual health costs with a Mean Absolute Error (MAE) of less than $2400 USD. This Python script is designed to predict healthcare expenses using a dataset with various features such as age, sex, BMI, the number of children, smoking status, and region. The script uses several Python libraries including pandas for data manipulation, matplotlib for data visualization, and scikit-learn and TensorFlow for machine learning.
 
 **1-Description**
